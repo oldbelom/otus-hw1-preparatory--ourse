@@ -16,6 +16,8 @@ module.exports = {
         ignoreComments: true,
       },
     ],
+    "no-console": "off",
+    "no-alert": "off",
   },
   plugins: ["jest"],
 };

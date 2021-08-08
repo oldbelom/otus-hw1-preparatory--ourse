@@ -14,6 +14,7 @@ module.exports = {
       "error",
       {
         ignoreComments: true,
+        code: 100,
       },
     ],
     "no-console": "off",
